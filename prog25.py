@@ -10,3 +10,4 @@ else:
 print("teste de PULL")
 print("teste de push pelo vscode")
 print("teste de push pelo vscode 2")
+input("digite sua idade e o ano que vc nasceu aqui")
