@@ -8,3 +8,4 @@ elif v2 > v1:
 else:
     print("Ambos os valores são iguais.")
 print("teste de PULL")
+print("teste de push pelo vscode")
